@@ -39,7 +39,6 @@
 >
 > 1. [Rainmeter](https://www.rainmeter.net/) dan [skin](https://github.com/azzamimaf/conkyrainmeter)
 > 2. Wallpaper [Grand Admiral Marina](https://heavenhold.com/heroes/marina/) dari [Guardian Tales](https://guardiantales.com/)<br>
-> 3. [Numix Cursor](https://www.deviantart.com/alexgal23/art/Numix-Cursors-631491782) dari [alexgal23](https://www.deviantart.com/alexgal23/)<br>
 >
 
 ## Cara Pasang Tema
@@ -50,19 +49,13 @@
 2. Pasang aplikasi Rainmeter pada folder (Klik dua kali, terus ikuti petunjuknya)
 3. Restart perangkat jika diminta
 
-### B. Pasang Cursor
-1. Buka folder Numix Cursor
-2. Klik kanan pada file "install.inf" lalu klik Install
-3. Pada dropdown "Scheme", pilih "Numix dark"
-4. Klik Apply di kanan bawah lalu Ok
-
-### C. Pasang Skin Rainmeter
+### B. Pasang Skin Rainmeter
 1. Buka folder rainmeter skin
 2. Klik 2 kali untuk memasang skin
 3. Klik install pada installer
 4. Untuk pengaturan skin rainmeter sesuai selera masing-masing
 
-### D. Pasang Tema Windows
+### C. Pasang Tema Windows
 1. Buka Settings
 2. Ganti wallpaper dengan gambar dalam paket
 3. Ganti warna aksen menjadi otomatis
