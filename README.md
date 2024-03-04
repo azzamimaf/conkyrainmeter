@@ -34,6 +34,9 @@
   <span class="dot" onclick="currentSlide(3)"></span>
 </div>
 
+## Unduh paket tema di sini
+[Link rilis](https://github.com/azzamimaf/conkyrainmeter/releases)
+
 ## Paket rilis ini berisi :
 
 >
