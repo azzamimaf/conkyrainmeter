@@ -35,7 +35,7 @@
 </div>
 
 ## Unduh paket tema di sini
-[Link rilis](https://github.com/azzamimaf/conkyrainmeter/releases)
+[Link rilis paket](https://github.com/azzamimaf/conkyrainmeter/releases/download/v0.1/v0.1.zip)
 
 ## Paket rilis ini berisi :
 
