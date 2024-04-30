@@ -1,36 +1,10 @@
-
-# Conky Rainmeter
-
 ## Conky-like theme configuration for Rainmeter Windows 10/11
+[ss1]: https://raw.githubusercontent.com/azzamimaf/conkyrainmeter/main/ss1.png "ss1"
+[ss2]: https://raw.githubusercontent.com/azzamimaf/conkyrainmeter/main/ss2.png "ss2"
+[ss3]: https://raw.githubusercontent.com/azzamimaf/conkyrainmeter/main/ss3.png "ss3"
 
-## Screenshot Tema
-<!-- Slideshow container -->
-<div class="slideshow-container">
-
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <img src="ss1.png" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="ss2.png" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="ss3.png" style="width:100%">
-  </div>
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-</div>
+|-----------|-----------|-----------|
+|![ss1][ss1]|![ss2][ss2]|![ss3][ss3]|
 
 ## Unduh paket tema di sini
 [Link rilis paket](https://github.com/azzamimaf/conkyrainmeter/releases/download/v0.1/v0.1.zip)
@@ -44,8 +18,6 @@
 
 ## Cara Pasang Tema
  Video cara memasang tema [di sini](https://youtu.be/3IrMsjhfme0?si=O2tNRr6Z8UiDlHZX)
- 
- Ada beberapa bagian :
 
 ### A. Pasang Aplikasi Rainmeter
 1. Buka folder program
