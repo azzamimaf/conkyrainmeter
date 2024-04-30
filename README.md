@@ -1,9 +1,7 @@
 
 # Conky Rainmeter
 
->
-> ## Conky-like theme configuration for Rainmeter Windows 10/11
->
+## Conky-like theme configuration for Rainmeter Windows 10/11
 
 ## Screenshot Tema
 <!-- Slideshow container -->
